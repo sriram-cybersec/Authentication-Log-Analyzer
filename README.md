@@ -173,7 +173,7 @@ Authentication Log Analyzer v1 was manually tested against several scenarios:
 - Malformed authentication entries
 - Invalid timestamps
 
-## ▶️ Running AuthWatch
+## ▶️ Running Authentication Log Analyzer
 
 ### Requirements
 
@@ -222,7 +222,7 @@ Time After Attack: 0:00:40
 Possible Account Compromise Indicator
 ```
 
-## 📸 AuthWatch Demo
+## 📸 Authentication Log Analyzer Demo
 
 Below is an example of AuthWatch detecting suspicious authentication activity:
 
